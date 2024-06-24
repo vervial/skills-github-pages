@@ -1,6 +1,9 @@
 ---
 title: "AI Prompt Engineering"
 date: 2024-06-24
+author: Franck Vervial
+categories: [AI, Machine Learning]
+tags: [AI, prompt engineering, tutorial]
 ---
 
 # Mastering Prompt Engineering: Techniques for Superior AI Outputs
@@ -89,3 +92,7 @@ With CO-STAR:
 Effective prompt engineering involves providing clear instructions, contextualizing the task, defining roles, outlining actions, specifying formats, encouraging refinement, and setting the appropriate tone and style. Using structured frameworks like CRAFT, CO-STAR, and PROMPT can significantly enhance the quality of AI-generated responses. By mastering these techniques, you can unlock the full potential of large language models and achieve superior results in your interactions with AI.
 
 For more detailed guidelines and examples, you can refer to the [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering) and best practices from the [OpenAI Help Center](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api).
+
+**Prompt Engineering Trainings:**
+- [Prompt Engineering (Coursera)](https://www.coursera.org/learn/prompt-engineering/home/welcome)
+- [Prompt Engineering for Developers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
