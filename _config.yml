@@ -1,0 +1,4 @@
+title: Site Settings
+author: Franck VERVIAL
+description: Jekyll uses a file titled _config.yml to store settings for your site, your theme, and reusable content like your site title and GitHub handle
+theme: minima
